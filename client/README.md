@@ -12,7 +12,6 @@ A single page that takes input of starting point (from), destination (to) and th
 
 * Page 2: The page that opens when a desired bus is selected and displays position and prices of available seats.
 * Page 3: Confirmation page for booking to update the database that said seat is not available.
-* Database: Improvements in the structure of the database to accomadate details pertaining to the booked and available seats.S
 
 ### Existing problems
 
